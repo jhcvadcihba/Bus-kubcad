@@ -33,4 +33,4 @@ async def friends(ctx, userId):
         threading.Thread(target=add_user, args=(x, userId,)).start()
             
 keep_alive()
-bot.run(token)
+bot.run(MTQ4MTkxNDgyODc4NzU1MjM0Nw.GxN7gU.0fKYgRwIyYbShDX7AsnWAE5tgZDG-EdUkqQUO0)
